@@ -1,21 +1,22 @@
 const databaseProyek = {
     "sistem_pos": {
-        judul: "SISTEM POST",
-        keahlian: ["JavaScript","PHP"],
-        gambar: "https://darmawan.capital/wp-content/uploads/2021/03/indodax-logo.png",
-        latar: "ini adalah proyek magang saya membuat sistem POS untuk PT INDODAX",
-        tantangan: "kebutuhan dari PTnya sangat rumit",
-        pelajaran: "Saya mendapatkan pelajran bahwa sistem pos PT INDODAX ideal skala kecil",
+        judul: "STAND HERE ALONE",
+        keahlian: ["JAVASCript","PHP"],
+        gambar: "https://i.scdn.co/image/ab67616d0000b27302fdc09cc488d25c189565c2",
+        latar: "Stand Here Alone (SHA) adalah grup musik beraliran Pop Punk dan Melodic Punk asal Bandung, Indonesia. ",
+        tantangan: "Kebutuhan dari BAND-nya Sangat BANYAK",
+        pelajaran: "Saya mendapatkan pelajaran bahwa BAND SHA ideal untuk skala kecil",
         link: ""
     },
-"sistem_pos_xyz" : {
-        judul: "SISTEM POST",
-        keahlian: ["JavaScript","PHP"],
-        gambar: "https://darmawan.capital/wp-content/uploads/2021/03/indodax-logo.png",
-        latar: "ini adalah proyek magang saya membuat sistem POS untuk PT INDODAX",
-        tantangan: "kebutuhan dari PTnya sangat rumit",
-        pelajaran: "Saya mendapatkan pelajran bahwa sistem pos PT INDODAX ideal skala kecil",
+    "sistem_pos_xyz": {
+        judul: "STAND HERE ALONE",
+        keahlian: ["JAVASCript","PHP"],
+        gambar: "https://i.scdn.co/image/ab67616d0000b27302fdc09cc488d25c189565c2",
+        latar: "Stand Here Alone (SHA) adalah grup musik beraliran Pop Punk dan Melodic Punk asal Bandung, Indonesia. ",
+        tantangan: "Kebutuhan dari BAND-nya Sangat BANYAK",
+        pelajaran: "Saya mendapatkan pelajaran bahwa BAND SHA ideal untuk skala kecil",
         link: ""
     },
 };
+
 
